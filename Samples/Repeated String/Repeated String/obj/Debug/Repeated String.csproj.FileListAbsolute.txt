@@ -1,0 +1,7 @@
+C:\Users\a_sag\Downloads\Repeated String\Repeated String\bin\Debug\Repeated String.exe.config
+C:\Users\a_sag\Downloads\Repeated String\Repeated String\bin\Debug\Repeated String.exe
+C:\Users\a_sag\Downloads\Repeated String\Repeated String\bin\Debug\Repeated String.pdb
+C:\Users\a_sag\Downloads\Repeated String\Repeated String\obj\Debug\Repeated String.csprojAssemblyReference.cache
+C:\Users\a_sag\Downloads\Repeated String\Repeated String\obj\Debug\Repeated String.csproj.CoreCompileInputs.cache
+C:\Users\a_sag\Downloads\Repeated String\Repeated String\obj\Debug\Repeated String.exe
+C:\Users\a_sag\Downloads\Repeated String\Repeated String\obj\Debug\Repeated String.pdb
