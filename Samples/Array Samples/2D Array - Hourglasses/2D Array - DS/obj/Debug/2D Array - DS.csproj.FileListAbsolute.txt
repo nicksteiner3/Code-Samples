@@ -1,0 +1,7 @@
+C:\Users\a_sag\Downloads\2D Array - DS\2D Array - DS\bin\Debug\2D Array - DS.exe.config
+C:\Users\a_sag\Downloads\2D Array - DS\2D Array - DS\bin\Debug\2D Array - DS.exe
+C:\Users\a_sag\Downloads\2D Array - DS\2D Array - DS\bin\Debug\2D Array - DS.pdb
+C:\Users\a_sag\Downloads\2D Array - DS\2D Array - DS\obj\Debug\2D Array - DS.csprojAssemblyReference.cache
+C:\Users\a_sag\Downloads\2D Array - DS\2D Array - DS\obj\Debug\2D Array - DS.csproj.CoreCompileInputs.cache
+C:\Users\a_sag\Downloads\2D Array - DS\2D Array - DS\obj\Debug\2D Array - DS.exe
+C:\Users\a_sag\Downloads\2D Array - DS\2D Array - DS\obj\Debug\2D Array - DS.pdb
