@@ -1,7 +1,0 @@
-C:\Users\a_sag\Downloads\JumpingOnTheClouds\JumpingOnTheClouds\bin\Debug\JumpingOnTheClouds.exe.config
-C:\Users\a_sag\Downloads\JumpingOnTheClouds\JumpingOnTheClouds\bin\Debug\JumpingOnTheClouds.exe
-C:\Users\a_sag\Downloads\JumpingOnTheClouds\JumpingOnTheClouds\bin\Debug\JumpingOnTheClouds.pdb
-C:\Users\a_sag\Downloads\JumpingOnTheClouds\JumpingOnTheClouds\obj\Debug\JumpingOnTheClouds.csprojAssemblyReference.cache
-C:\Users\a_sag\Downloads\JumpingOnTheClouds\JumpingOnTheClouds\obj\Debug\JumpingOnTheClouds.csproj.CoreCompileInputs.cache
-C:\Users\a_sag\Downloads\JumpingOnTheClouds\JumpingOnTheClouds\obj\Debug\JumpingOnTheClouds.exe
-C:\Users\a_sag\Downloads\JumpingOnTheClouds\JumpingOnTheClouds\obj\Debug\JumpingOnTheClouds.pdb
